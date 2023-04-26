@@ -258,13 +258,13 @@ I would like to thank...
 
 > Add at least 2 questions new developers would ask when they decide to use your project.
 
-- **[Question_1]**
+- **Why did you build this project?**
 
-  - [Answer_1]
+  - This project is first project for me to improve my knoweledge and some of workflow become to understand.
 
-- **[Question_2]**
+- **What did you learn?**
 
-  - [Answer_2]
+  - I learn github workflows, about linter,lighthouse and webhint I have never known skills and knoweledges.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
