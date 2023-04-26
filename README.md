@@ -39,7 +39,7 @@ After you're finished please remove all the comments and instructions!
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
+
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -63,10 +63,13 @@ After you're finished please remove all the comments and instructions!
 
 
 ## 🛠 Built With <a name="built-with"></a>
+- HTML
+- CSS
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
+* Version Control System
+  -Git Hub
 
 <details>
   <summary>Client</summary>
@@ -93,21 +96,12 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
+> This project has no feature and this is simple project to enhance skill.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://google.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -115,7 +109,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
+> You need to create your first repo "Hello-Microverse-Project"
 
 To get a local copy up and running, follow these steps.
 
@@ -210,17 +204,6 @@ Example:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FUTURE FEATURES -->
-
-## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 
@@ -236,9 +219,7 @@ Feel free to check the [issues page](https://github.com/YoutLone/Hello-Microvers
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
-If you like this project...
+If you like this project you can give ⭐️ to me.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
