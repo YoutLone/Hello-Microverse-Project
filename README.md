@@ -94,6 +94,11 @@ Clone this repository to your desired folder:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **[new_feature_1]**Add Javascript
+- [ ] **[new_feature_2]**Add CSS framework
+- [ ] **[new_feature_3]**Add additional features
 
 ## 🤝 Contributing <a name="contributing"></a>
 
