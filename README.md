@@ -46,25 +46,10 @@
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li>HTMl</li>
+    <li>CSS</li>
   </ul>
 </details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details>
-
-
 
 ### Key Features <a name="key-features"></a>
 
@@ -104,7 +89,6 @@ Clone this repository to your desired folder:
 👤 **Author1**
 
 - GitHub: [@githubhandle](https://github.com/YoutLone)
-- Twitter: [@twitterhandle](https://twitter.com/@ThanMyoHtet64860)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/than-myo-htet-618b2524b)
 
 
